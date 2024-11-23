@@ -5,6 +5,7 @@ This project is also a learning experience on how to develop desktop application
 # Features(Intended): 
 - Image To Pixel Grid ( with variable parameters).
 - Crochet Stitch Identifier ( upload an image of a stitch and identify the stitch ).
+- Crochet Pattern Modelling
 
 # Features(Potential): 
 - Integrate with Ravelry API to fetch patterns.
@@ -13,4 +14,7 @@ This project is also a learning experience on how to develop desktop application
 # Tech Stack (Intended):
 - Tauri (to package the application and for cross-platform interoperability.)
 - Svelte (to build the UI of the app.)
-- Python (For training the stitch identificaiton model.)
+- Three.js (for crochet/knit modelling.)
+- Python  (for crochet stitch identification)
+
+

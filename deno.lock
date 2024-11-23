@@ -12,6 +12,7 @@
     "npm:svelte-check@4": "4.0.9_svelte@5.2.2__acorn@8.14.0_typescript@5.6.3",
     "npm:svelte@5": "5.2.2_acorn@8.14.0",
     "npm:tailwindcss@^3.4.15": "3.4.15_postcss@8.4.49",
+    "npm:three@0.170": "0.170.0",
     "npm:tslib@^2.8.0": "2.8.1",
     "npm:typescript@^5.5.0": "5.6.3",
     "npm:vite@^5.4.10": "5.4.11"
@@ -1004,6 +1005,9 @@
         "any-promise"
       ]
     },
+    "three@0.170.0": {
+      "integrity": "sha512-FQK+LEpYc0fBD+J8g6oSEyyNzjp+Q7Ks1C568WWaoMRLW+TkNNWmenWeGgJjV105Gd+p/2ql1ZcjYvNiPZBhuQ=="
+    },
     "tiny-glob@0.2.9": {
       "integrity": "sha512-g/55ssRPUjShh+xkfx9UPDXqhckHEsHr4Vd9zX55oSdGZc/MD0m3sferOkwWtp98bv+kcVfEHtRJgBVJzelrzg==",
       "dependencies": [
@@ -1098,6 +1102,7 @@
         "npm:svelte-check@4",
         "npm:svelte@5",
         "npm:tailwindcss@^3.4.15",
+        "npm:three@0.170",
         "npm:tslib@^2.8.0",
         "npm:typescript@^5.5.0",
         "npm:vite@^5.4.10"
