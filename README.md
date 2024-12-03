@@ -9,7 +9,6 @@ This project is also a learning experience on how to develop desktop application
 
 # Features(Potential): 
 - Integrate with Ravelry API to fetch patterns.
-- Crochet/Knit Pattern Simulator (to make visualizing your patterns easier.)
 
 # Tech Stack (Intended):
 - Tauri (to package the application and for cross-platform interoperability.)
